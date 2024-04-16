@@ -1,3 +1,3 @@
 # Traffic signs Dataset
 
-I got around ~~84% accuracy~~ using my model.
+I got around 84% accuracyusing my model.
